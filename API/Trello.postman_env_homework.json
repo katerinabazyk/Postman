@@ -1,0 +1,29 @@
+{
+	"id": "f9c3ad1c-a4bc-4399-948c-1cdcafbc9fbf",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "link",
+			"value": "https://api.trello.com/1",
+			"enabled": true
+		},
+		{
+			"key": "ApiKey",
+			"value": "9ca4936efa3b63256be9fa4a0688409d",
+			"enabled": true
+		},
+		{
+			"key": "CustomerToken",
+			"value": "4029df9d65557316deaebcc2c11ccdf39e81ac2d0cf42bf6de048111c7d072b4",
+			"enabled": true
+		},
+		{
+			"key": "idboard",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-02-24T18:22:20.672Z",
+	"_postman_exported_using": "Postman/8.0.6"
+}
